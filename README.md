@@ -113,18 +113,18 @@ documentado não depende do Canvas.
 ## Publicação
 
 **Repositório público:** `https://github.com/KukielSCBr/dashboard-porsche-vendas/`
-
 **Dashboard publicada no GitHub Pages:** `https://kukielscbr.github.io/dashboard-porsche-vendas/`
+**Imagem sem aplicação de filtro:** `imagem1 - Sem filtro.png`
+**Imagem com aplicação de filtro:** `imagem1 - Com filtro - Forma de Pagamento - debito bancario.png`
 
-## Validação antes da entrega
-
--   [ ] O repositório está público.
--   [ ] O arquivo principal se chama `index.html` e está na raiz.
--   [ ] O GitHub Pages está ativado e a página abre pelo link publicado.
--   [ ] Os filtros de data, modelo, estado, forma de pagamento e status
+## Validações:
+-   [x] O repositório está público.
+-   [x] O arquivo principal se chama `index.html` e está na raiz.
+-   [x] O GitHub Pages está ativado e a página abre pelo link publicado.
+-   [x] Os filtros de data, modelo, estado, forma de pagamento e status
     funcionam.
--   [ ] Os indicadores e gráficos mudam quando os filtros são aplicados.
--   [ ] O botão para limpar filtros funciona.
--   [ ] O README contém os links reais do repositório e da dashboard.
--   [ ] Foi capturada uma imagem da dashboard aberta e, se possível,
+-   [x] Os indicadores e gráficos mudam quando os filtros são aplicados.
+-   [x] O botão para limpar filtros funciona.
+-   [x] O README contém os links reais do repositório e da dashboard.
+-   [x] Foi capturada uma imagem da dashboard aberta e, se possível,
     outra com um filtro aplicado.
