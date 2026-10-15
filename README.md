@@ -112,7 +112,7 @@ documentado não depende do Canvas.
 
 ## Publicação
 
-**Repositório público:** `COLE_AQUI_O_LINK_DO_REPOSITORIO`
+**Repositório público:** `https://github.com/KukielSCBr/dashboard-porsche-vendas/`
 
 **Dashboard publicada no GitHub Pages:**
 `COLE_AQUI_O_LINK_DO_GITHUB_PAGES`
