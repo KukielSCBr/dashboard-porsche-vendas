@@ -116,11 +116,6 @@ documentado não depende do Canvas.
 
 **Dashboard publicada no GitHub Pages:** `https://kukielscbr.github.io/dashboard-porsche-vendas/`
 
-Após criar o repositório público e ativar o GitHub Pages nas
-configurações, substitua os dois campos acima pelos endereços reais. O
-arquivo principal deve estar nomeado `index.html` na raiz do
-repositório.
-
 ## Validação antes da entrega
 
 -   [ ] O repositório está público.
